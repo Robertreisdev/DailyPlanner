@@ -1,0 +1,42 @@
+* {
+
+}
+
+form {
+  background-color: #0A4563;
+}
+
+.heading {
+  color: white;
+  margin: auto;
+}
+
+.textF {
+  margin: 100px;
+  background-color: white;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.task {
+  color:black;
+
+}
+
+.task_container{
+  font-size: 18px;
+}

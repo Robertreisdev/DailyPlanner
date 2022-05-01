@@ -1,0 +1,42 @@
+.textInput {
+    font-size: large;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 5px auto;
+}
+
+.textInput:focus {
+    outline: none;
+    border-color: #6e7277;
+    box-shadow: 0 0 10px rgb(100, 108, 116);
+}
+
+.search {
+    width: 100%;
+    margin: 0 0 75px;
+    padding: 15px;
+    appearance: none;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 32px;
+    background-color: rgba(166, 180, 180, 0.918);
+    border-radius: 12px 12px;
+    margin-top: -25px;
+}
+
+.Button {
+    margin: 10px auto;
+    padding: .5rem;
+    font-size: 1em;
+    background: darkcyan;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.forecastdiv {
+    color: #EEE;
+    font-size: 32px;
+}
